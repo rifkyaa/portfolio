@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import "./Header.css"
 
-// Video 31.00
 const Header = () => {
     /*=============== Toggle Menu ===============*/
     const [Toggle, showMenu] = useState(false);
