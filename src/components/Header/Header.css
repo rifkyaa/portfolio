@@ -7,6 +7,11 @@
     background-color: var(--body-color);
 }
 
+/* Change Background Navbar */
+.scroll-header {
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+}
+
 .nav {
     height: calc(var(--header-height) + 1.5rem);
     display: flex;
@@ -55,7 +60,7 @@
 /* Active Link */
 .active-link,
 .nav__link:hover {
-    color: var(--title-color-dark);
+    color: gray;
 }
 
 /*=============== BREAKPOINTS ===============*/

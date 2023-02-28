@@ -4,7 +4,6 @@ import Social from './Social';
 import Data from './Data';
 import ScrollDown from './ScrollDown';
 
-// Video 51.00
 const Home = () => {
     return (
         <section className='home section' id='home'>
