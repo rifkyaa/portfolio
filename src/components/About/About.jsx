@@ -5,6 +5,14 @@ import CV from "../../assets/Rifky-Cv.pdf";
 import Info from './Info';
 
 const About = () => {
+    // Show Hide Content
+    // window.addEventListener("scroll", function () {
+    //     const showContent = document.querySelector(".about__container");
+    //     if (this.scrollY >= 400) showContent.classList.add("show-content");
+    //     else showContent.classList.remove("show-content")
+    // })
+
+
     return (
         <section className="about section" id="about">
             <h2 className="section__title">About Me</h2>

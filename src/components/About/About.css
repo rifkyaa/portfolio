@@ -2,7 +2,17 @@
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     column-gap: 4rem;
+    /* transform: translateX(120%); */
+    /* opacity: 0; */
+    /* transition: 1s; */
+    /* overflow: hidden; */
 }
+
+/* Show Content */
+/* .show-content {
+    opacity: 1;
+    transform: translateX(0);
+} */
 
 .about__img {
     width: 280px;

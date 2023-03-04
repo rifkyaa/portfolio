@@ -1,6 +1,13 @@
 import React from 'react'
 
 const ScrollDown = () => {
+    window.addEventListener("scroll", function () {
+        const scrollDown = document.querySelector(".home__scroll");
+        if (this.scrollY >= 100) scrollDown.classList.add("hide-scroll");
+        else scrollDown.classList.remove("hide-scroll")
+    })
+
+
     return (
         <div className="home__scroll">
             <a href="#about" className="home__scroll-button">

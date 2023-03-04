@@ -114,6 +114,14 @@
     margin-left: 9.25rem;
 }
 
+/* Hide Scroll */
+.hide-scroll {
+    opacity: 0;
+    transition: 0.7s;
+    transform: translateY(100%);
+}
+
+
 .home__scroll a {
     display: flex;
     align-items: center;
