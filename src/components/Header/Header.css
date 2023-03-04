@@ -47,7 +47,7 @@
 }
 
 .nav__item:hover {
-    background-color: rgb(147, 147, 147);
+    color: gray;
 
 }
 
@@ -85,6 +85,10 @@
         box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
         border-radius: 1.5rem 1.5rem 0 0;
         transition: .3s;
+    }
+
+    .nav__item:hover {
+        background-color: rgb(147, 147, 147);
     }
 
     /* Show Menu */
@@ -136,6 +140,10 @@
 @media screen and (max-width: 350px) {
     .nav__menu {
         padding: 2rem 0.25rem 4rem;
+    }
+
+    .nav__item:hover {
+        background-color: rgb(147, 147, 147);
     }
 
     .nav__list {
