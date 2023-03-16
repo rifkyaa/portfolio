@@ -84,7 +84,7 @@
 }
 
 .home__img {
-    background: url(../../assets/profile3.png);
+    background: url(../../assets/profile2.png);
     background-color: var(--title-color);
     background-size: cover;
     box-shadow: inset 0 0 0 4px rgb(255 255 255 / 30%);
