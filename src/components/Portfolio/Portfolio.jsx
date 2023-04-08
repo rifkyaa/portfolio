@@ -1,4 +1,3 @@
-// Test
 import React, { useState } from 'react';
 import "./Portfolio.css";
 import Data from "./Data.js";
