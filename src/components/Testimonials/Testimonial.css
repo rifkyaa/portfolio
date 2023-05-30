@@ -12,7 +12,10 @@
 
 .testimonial__img {
     width: 100px;
-    border-radius: 3rem;
+    height: 100px;
+    object-fit: cover;
+    object-position: right top;
+    border-radius: 1rem;
     margin-bottom: var(--mb-1);
 }
 
