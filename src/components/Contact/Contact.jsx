@@ -36,16 +36,16 @@ const Contact = () => {
                             <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Whatsapp</h3>
-                            <span className="contact__card-data">081222393543</span>
+                            <span className="contact__card-data">081936187767</span>
 
-                            <a href="https://api.whatsapp.com/send?phone=6281222393543&text=Helo, bang!" target="_blank" className="contact__button">Write Me {" "} <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=6281936187767&text=Chat Aku ya, hehe" target="_blank" className="contact__button">Write Me {" "} <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
 
                         <div className="contact__card">
                             <i className="bx bxl-telegram contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Telegram</h3>
-                            <span className="contact__card-data">08814033362</span>
+                            <span className="contact__card-data">gak ada cuk</span>
 
                             <a href="#" target="_blank" className="contact__button">Write Me {" "} <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>

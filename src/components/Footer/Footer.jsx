@@ -26,7 +26,7 @@ const Footer = () => {
                     <a href="https://www.instagram.com/rfkyyyyy/" className='footer__social-link' target="_blank">
                         <i class="uil uil-instagram"></i>
                     </a>
-                    <a href="https://github.com/ZoyaaaZoy" className='footer__social-link' target="_blank">
+                    <a href="https://github.com/rifkyaa" className='footer__social-link' target="_blank">
                         <i class="uil uil-github-alt"></i>
                     </a>
                     <a href="#" className='footer__social-link' target="_blank">

@@ -30,7 +30,7 @@ const Portfolio = () => {
 
                     {
                         items.map((elem) => {
-                            const { id, name, image, link } = elem;
+                            const { name, image, link } = elem;
 
                             return (
                                 <>
