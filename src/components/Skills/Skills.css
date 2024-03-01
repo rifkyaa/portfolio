@@ -5,6 +5,10 @@
 }
 
 .skills__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
     background-color: var(--container-color);
     border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 2rem 4rem;
